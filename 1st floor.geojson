@@ -12346,7 +12346,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "orchid"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -17814,7 +17814,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "oldlace"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -17947,7 +17947,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "antiquewhite"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -18195,12 +18195,12 @@
           "type": "Feature",
           "properties": {
               "id": 313,
-              "name": null,
+              "name": "hallway",
               "type": "area.room",
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "burlywood"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -18469,7 +18469,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "lawngreen"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -18566,7 +18566,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "limegreen"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -18728,7 +18728,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "powderblue"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -18837,7 +18837,7 @@
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "orangered"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -19467,12 +19467,12 @@
           "type": "Feature",
           "properties": {
               "id": 329,
-              "name": null,
+              "name": "hallway",
               "type": "area.room",
               "floor": 1,
               "height": 0.0,
               "bs_height": 0.0,
-              "color": "rosybrown"
+              "color": "skyblue"
           },
           "geometry": {
               "type": "MultiPolygon",
@@ -19569,7 +19569,7 @@
           "type": "Feature",
           "properties": {
               "id": 331,
-              "name": null,
+              "name": "hallway",
               "type": "area.room",
               "floor": 1,
               "height": 0.0,
