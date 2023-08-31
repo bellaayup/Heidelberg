@@ -16,7 +16,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -81,7 +81,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -522,7 +522,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -723,7 +723,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -840,7 +840,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -881,7 +881,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -954,7 +954,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1011,7 +1011,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1052,7 +1052,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1093,7 +1093,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1134,7 +1134,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1191,7 +1191,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1452,7 +1452,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1509,7 +1509,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1558,7 +1558,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1615,7 +1615,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1656,7 +1656,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1713,7 +1713,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1802,7 +1802,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -1911,7 +1911,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2028,7 +2028,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2097,7 +2097,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2150,7 +2150,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2211,7 +2211,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2276,7 +2276,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2349,7 +2349,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2438,7 +2438,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2617,7 +2617,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2726,7 +2726,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2815,7 +2815,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2856,7 +2856,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2897,7 +2897,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2938,7 +2938,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -2979,7 +2979,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3020,7 +3020,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3061,7 +3061,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3102,7 +3102,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3143,7 +3143,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3184,7 +3184,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3225,7 +3225,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3266,7 +3266,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3307,7 +3307,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3348,7 +3348,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3389,7 +3389,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3430,7 +3430,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3471,7 +3471,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3512,7 +3512,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3553,7 +3553,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3594,7 +3594,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3635,7 +3635,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3676,7 +3676,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3717,7 +3717,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3758,7 +3758,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3839,7 +3839,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3880,7 +3880,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -3921,7 +3921,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4085,7 +4085,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4190,7 +4190,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4231,7 +4231,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4272,7 +4272,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4313,7 +4313,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4426,7 +4426,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4467,7 +4467,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4512,7 +4512,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4553,7 +4553,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4594,7 +4594,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4635,7 +4635,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4676,7 +4676,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4717,7 +4717,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4758,7 +4758,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4799,7 +4799,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4840,7 +4840,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4881,7 +4881,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4922,7 +4922,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -4963,7 +4963,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5004,7 +5004,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5045,7 +5045,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5086,7 +5086,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5127,7 +5127,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5168,7 +5168,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5209,7 +5209,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5250,7 +5250,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5291,7 +5291,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5332,7 +5332,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5373,7 +5373,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5414,7 +5414,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5455,7 +5455,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5496,7 +5496,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5537,7 +5537,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5578,7 +5578,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5619,7 +5619,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5660,7 +5660,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5701,7 +5701,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5742,7 +5742,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5783,7 +5783,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5824,7 +5824,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5865,7 +5865,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5906,7 +5906,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5947,7 +5947,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -5988,7 +5988,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6029,7 +6029,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6070,7 +6070,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6111,7 +6111,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6152,7 +6152,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6193,7 +6193,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6234,7 +6234,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6275,7 +6275,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6316,7 +6316,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6357,7 +6357,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6398,7 +6398,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -6439,7 +6439,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -6480,7 +6480,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -6521,7 +6521,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -6562,7 +6562,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -6607,7 +6607,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -6648,7 +6648,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6705,7 +6705,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -6887,7 +6887,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7084,7 +7084,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7125,7 +7125,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7178,7 +7178,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7227,7 +7227,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7308,7 +7308,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7409,7 +7409,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7554,7 +7554,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7659,7 +7659,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7764,7 +7764,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -7805,7 +7805,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7902,7 +7902,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -7967,7 +7967,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8032,7 +8032,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8105,7 +8105,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8206,7 +8206,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8295,7 +8295,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8400,7 +8400,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8550,7 +8550,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8607,7 +8607,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8680,7 +8680,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8737,7 +8737,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8794,7 +8794,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8847,7 +8847,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -8956,7 +8956,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -9009,7 +9009,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -9062,7 +9062,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -9115,7 +9115,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -9180,7 +9180,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -9322,7 +9322,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -9815,7 +9815,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -10080,7 +10080,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -10153,7 +10153,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -10194,7 +10194,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -10275,7 +10275,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -10784,7 +10784,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -10825,7 +10825,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -10866,7 +10866,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11131,7 +11131,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11228,7 +11228,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11329,7 +11329,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11519,7 +11519,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11612,7 +11612,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11661,7 +11661,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11710,7 +11710,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11767,7 +11767,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -11820,7 +11820,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12113,7 +12113,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12408,7 +12408,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12513,7 +12513,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12554,7 +12554,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12603,7 +12603,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12732,7 +12732,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12789,7 +12789,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -12838,7 +12838,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -12895,7 +12895,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13172,7 +13172,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13213,7 +13213,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13262,7 +13262,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13348,7 +13348,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13389,7 +13389,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13430,7 +13430,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13471,7 +13471,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13512,7 +13512,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13569,7 +13569,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13610,7 +13610,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13707,7 +13707,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13748,7 +13748,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13813,7 +13813,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13886,7 +13886,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -13943,7 +13943,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14032,7 +14032,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14081,7 +14081,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14122,7 +14122,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14203,7 +14203,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14280,7 +14280,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14325,7 +14325,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14382,7 +14382,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14435,7 +14435,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14476,7 +14476,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14566,7 +14566,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14639,7 +14639,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -14716,7 +14716,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15013,7 +15013,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15510,7 +15510,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15559,7 +15559,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15600,7 +15600,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15641,7 +15641,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15702,7 +15702,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15755,7 +15755,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15796,7 +15796,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -15983,7 +15983,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -16144,7 +16144,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -16761,7 +16761,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -16802,7 +16802,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -16859,7 +16859,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -16916,7 +16916,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -16969,7 +16969,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -17753,7 +17753,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -20499,7 +20499,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -21521,7 +21521,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -21642,7 +21642,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -23767,7 +23767,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -23808,7 +23808,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -24705,7 +24705,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -24803,7 +24803,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -25028,7 +25028,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -26021,7 +26021,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -26561,7 +26561,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -26913,7 +26913,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -27936,7 +27936,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28163,7 +28163,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -28204,7 +28204,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
@@ -28245,7 +28245,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28470,7 +28470,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28539,7 +28539,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28632,7 +28632,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28705,7 +28705,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28782,7 +28782,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28835,7 +28835,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -28958,7 +28958,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -29068,7 +29068,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -29232,7 +29232,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -29309,7 +29309,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -29411,7 +29411,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -29517,7 +29517,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30267,7 +30267,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30365,7 +30365,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30451,7 +30451,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30533,7 +30533,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30663,7 +30663,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30745,7 +30745,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30827,7 +30827,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -30868,7 +30868,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -31060,7 +31060,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -31676,7 +31676,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -32025,7 +32025,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -32066,7 +32066,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -32139,7 +32139,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -32204,7 +32204,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -32261,7 +32261,7 @@
                 "type": "wall",
                 "floor": "1",
                 "height": 3.0,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "gray"
             },
             "geometry": {
@@ -32593,7 +32593,7 @@
                 "type": "furniture.builtin",
                 "floor": "1",
                 "height": 1.5,
-                "baseheight": 0.0,
+                "baseheight": 0.1,
                 "color": "brown"
             },
             "geometry": {
